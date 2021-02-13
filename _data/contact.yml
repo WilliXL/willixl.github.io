@@ -1,8 +1,8 @@
 #  The contact options.
 
--
-  type: github
-  icon: 'fab fa-github-alt'
+# -
+#   type: github
+#   icon: 'fab fa-github'
 -
   type: twitter
   icon: 'fab fa-twitter'
@@ -10,20 +10,24 @@
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+# -
+#   type: rss
+#   icon: 'fas fa-rss'
+#   noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 # -
 #   type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your mastodon account page
-# -
-#   type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
+-
+  type: linkedin
+  icon: 'fab fa-linkedin-in'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/willixl'                  # Fill with your Linkedin homepage
+-
+  type: Google Scholar
+  icon: 'fas fa-graduation-cap'
+  url: 'https://scholar.google.com/citations?user=gJ2y8cEAAAAJ&hl'
 # -
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
