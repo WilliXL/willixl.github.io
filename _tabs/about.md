@@ -6,7 +6,7 @@ order: 1
 
 Hi! My name is William Liu (刘胥飞/劉胥飛). I am a software engineer, as well as a computer scientist and cognitive scientist, originally from Madison, Wisconsin.
 
-**Currently** I am a Software Engineer at a [stealth startup](https://en.wikipedia.org/wiki/Stealth_startup) (what a weird term) in Palo Alto, California. Our team is developing a new custom HPC and ML accelerator processor along with a robust compiler stack.
+**Currently** I am a Software Engineer at a [stealth startup](https://en.wikipedia.org/wiki/Stealth_startup) (what a weird term) in Palo Alto, California. Our team is developing a new custom HPC and ML accelerator processor along with a robust compiler stack. I work specifically on graph optimization in our compiler stack.
 
 If you like PDFs, here are my [Résumé](../assets/cv/Rez_U_May.pdf) and [CV](../assets/cv/CV.pdf).
 
