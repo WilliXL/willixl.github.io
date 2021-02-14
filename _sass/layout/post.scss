@@ -67,9 +67,9 @@
 
     color: var(--link-color);
     &:hover {
-      background: #2a408e;
+      background: #de665d;
       color: #fff;
-      border-color: #2a408e;
+      border-color: #de665d;
     }
     &.disabled {
       @include btn-post-nav;
