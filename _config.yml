@@ -11,13 +11,13 @@ baseurl: ''
 lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
 title: William Liu                          # the main title
 
-tagline: My Personal Website   # it will display as the sub-title
+tagline: Just a dude   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Information that I can and want to share with the world.
@@ -35,7 +35,7 @@ twitter:
   username: liuwilliam47@gmail.com            # change to your twitter username
 
 social:
-  name: William Liu                  # it will shows as the copyright owner in Footer
+  name: William Liu                 # it will shows as the copyright owner in Footer
   email: me@williamliu.me             # change to your email address
   links:
     # The first element serves as the copyright owner's link

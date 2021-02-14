@@ -14,7 +14,7 @@ layout: default
       <div class="post-meta text-muted d-flex flex-column">
         <!-- Published date and author -->
         <div>
-          {% include timeago.html date=page.date tooltip=true %}
+          {% include timeago.html date=page.date %}
           by
           <span class="author">
             {{ page.author | default: site.author }}
@@ -26,12 +26,12 @@ layout: default
           {% if page.last_modified_at %}
           <span>
             Updated
-            {% include timeago.html date=page.last_modified_at class="lastmod" tooltip=true %}
+            {% include timeago.html date=page.last_modified_at class="lastmod" %}
           </span>
           {% endif %}
 
           <!-- read time -->
-          {% include read-time.html content=content %}
+          {% include read-time.html %}
 
           <!-- page views -->
           {% if site.google_analytics.pv.enabled %}
