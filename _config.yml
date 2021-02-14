@@ -32,7 +32,7 @@ github:
   username: willixl             # change to your github username
 
 twitter:
-  username: liuwilliam47@gmail.com            # change to your twitter username
+  username: liuwilliam47           # change to your twitter username
 
 social:
   name: William Liu                 # it will shows as the copyright owner in Footer
@@ -57,7 +57,7 @@ google_analytics:
     # the next options only valid when `google_analytics.pv` is enabled.
     proxy_url: 'https://personal-website-304805.appspot.com'
     proxy_endpoint: 'https://personal-website-304805.wl.r.appspot.com/query?id=ahltfnBlcnNvbmFsLXdlYnNpdGUtMzA0ODA1chULEghBcGlRdWVyeRiAgIDo14eBCgw'
-    cache: true  # pv data local cache, good for the users from GFW area.
+    cache: false  # pv data local cache, good for the users from GFW area.
 
 # Prefer color scheme setting.
 #
