@@ -15,7 +15,6 @@
       if (this.hasMode) {
         if (this.isDarkMode) {
           if (!this.isSysDarkPrefer) {
-            document.getElementById("darkmode-btn").className = "mode-toggle fas fa-sun"
             this.setDark();
           }
         } else {
@@ -130,12 +129,6 @@
       }
 
       this.updateMermaid();
-
-      if (document.getElementById("darkmode-btn").classList.contains("fa-sun")) {
-        document.getElementById("darkmode-btn").className = "mode-toggle fas fa-moon"
-      } else {
-        document.getElementById("darkmode-btn").className = "mode-toggle fas fa-sun"
-      }
 
     } /* flipMode() */
 
