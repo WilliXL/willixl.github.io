@@ -71,6 +71,10 @@
       color: #fff;
       border-color: #de665d;
     }
+    &:focus {
+      background: #de665d !important;
+      border-color: #de665d !important;
+    }
     &.disabled {
       @include btn-post-nav;
 

@@ -22,7 +22,7 @@
   --btn-backtotop-border-color: #f1f1f1;
   --btn-box-shadow: #eaeaea;
   --checkbox-color: #c5c5c5;
-  --checkbox-checked-color: #07a8f7;
+  --checkbox-checked-color: #5c1913;
 
   /* Sidebar */
   --sidebar-bg: #5c1913;
@@ -49,6 +49,7 @@
   --pin-color: #999fa4;
 
   /* Posts */
+  --toc-highlight: #c9443a;
   --btn-share-hover-color: var(--link-color);
   --card-border-color: #f1f1f1;
   --card-box-shadow: rgba(234, 234, 234, 0.7686274509803922);
@@ -68,6 +69,15 @@
 
   /* Footer */
   --footer-bg-color: #ffffff;
-  --footnote-target-bg: #5c1913;
+  --footnote-target-bg: #ffa7a1;
   --footer-link: #424242;
+
+  nav[data-toggle=toc] .nav-link.active,
+  nav[data-toggle=toc] .nav-link.active:focus,
+  nav[data-toggle=toc] .nav-link.active:hover,
+  nav[data-toggle=toc] .nav > li > a:focus,
+  nav[data-toggle=toc] .nav > li > a:hover {
+    color: var(--toc-highlight) !important;
+    border-left-color: var(--toc-highlight) !important;
+  }
 } // light-scheme

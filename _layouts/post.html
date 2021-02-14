@@ -10,6 +10,7 @@ layout: default
     <div class="post pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4">
 
       <h1 data-toc-skip>{{ page.title }}</h1>
+      <h3 data-toc-skip>{{ page.subtitle }}</h3>
 
       <div class="post-meta text-muted d-flex flex-column">
         <!-- Published date and author -->
@@ -31,7 +32,7 @@ layout: default
           {% endif %}
 
           <!-- read time -->
-          {% include read-time.html %}
+          {% include read-time.html content=page.content %}
 
           <!-- page views -->
           {% if site.google_analytics.pv.enabled %}
