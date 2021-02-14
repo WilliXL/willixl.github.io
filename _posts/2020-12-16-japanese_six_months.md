@@ -51,4 +51,4 @@ Anyways I am excited to see where I am at the next time I check in. I am still o
 #### Notes
 [^joyo-kanji]: "Regular-use Chinese characters" as defined by the Japanese Ministry of Education. [Wiki](https://en.wikipedia.org/wiki/J%C5%8Dy%C5%8D_kanji)
 [^jp-netflix]: Using a [VPN](https://www.comparitech.com/blog/vpn-privacy/change-netflix-region/) to change regions to Japan and watching their localized content
-[^agglutination]: [Agglutination]((https://en.wikipedia.org/wiki/Agglutination)) is a method of forming complex words but appending morphemes to base words rather than modifying the base words
+[^agglutination]: [Agglutination](https://en.wikipedia.org/wiki/Agglutination) is a method of forming complex words but appending morphemes to base words rather than modifying the base words
