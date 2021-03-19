@@ -8,7 +8,7 @@ Hi! My name is William Liu (刘胥飞/劉胥飛). I am a software engineer, as w
 
 **Currently** I am a Software Engineer at a [stealth startup](https://en.wikipedia.org/wiki/Stealth_startup) (what a weird term) in Palo Alto, California. Our team is developing a new custom HPC and ML accelerator processor along with a robust compiler stack. I work specifically on graph optimization in our compiler stack.
 
-If you like PDFs, here are my [Résumé](../assets/cv/Rez_U_May.pdf) and [CV](../assets/cv/CV.pdf).
+If you like PDFs, here are my [Résumé](../Rez_U_May.pdf) and [CV](../CV.pdf).
 
 I received my Bachelor's in [Cognitive Science](https://www.cmu.edu/dietrich/psychology/undergraduate/prospective-students/academics/cognitive-science/index.html) and minor in [Computer Science](https://www.cs.cmu.edu/) from Carnegie Mellon University. I am currently pursuing my Master's in [Computer Science](https://www.cs.utexas.edu/graduate-program/masters-program) at The University of Texas at Austin part time.
 
