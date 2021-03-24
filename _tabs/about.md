@@ -4,18 +4,32 @@ icon: fas fa-info
 order: 1
 ---
 
-Hi! My name is William Liu (刘胥飞/劉胥飛). I am a software engineer, as well as a computer scientist and cognitive scientist, originally from Madison, Wisconsin.
+Hi! My name is William Liu (刘胥飞/劉胥飛/류서비). I am a software engineer, as well as a computer scientist and cognitive scientist, originally from Madison, Wisconsin.
 
-**Currently** I am a Software Engineer at a [stealth startup](https://en.wikipedia.org/wiki/Stealth_startup) (what a weird term) in Palo Alto, California. Our team is developing a new custom HPC and ML accelerator processor along with a robust compiler stack. I work specifically on graph optimization in our compiler stack.
+If you like PDFs, take a look at my fairly up-to-date [Résumé](../Rez_U_May.pdf) and [CV](../CV.pdf).
 
-If you like PDFs, here are my [Résumé](../Rez_U_May.pdf) and [CV](../CV.pdf).
+### Professional
 
-I received my Bachelor's in [Cognitive Science](https://www.cmu.edu/dietrich/psychology/undergraduate/prospective-students/academics/cognitive-science/index.html) and minor in [Computer Science](https://www.cs.cmu.edu/) from Carnegie Mellon University. I am currently pursuing my Master's in [Computer Science](https://www.cs.utexas.edu/graduate-program/masters-program) at The University of Texas at Austin part time.
+Currently I am a Software Engineer at a [stealth startup](https://en.wikipedia.org/wiki/Stealth_startup) (what a weird term) in Palo Alto, California. 
 
-I find that I am generally interested in high performance computing, compilers, systems design, computer architecture, theoretical neuroscience, deep learning, and teaching. If you'd like to have a conversation related to any of these topics, my email is in the side bar. I'd love to discuss any interesting projects or ideas (or anything really)!
+Our team is developing a new custom HPC and ML accelerator processor along with a robust compiler stack.
 
-At some point in the future I hope to pursue a PhD in Computer Science to do research at the intersection of systems architecture, high-performance computing, and formal mathematical analysis.
+For a while, I was working on our graph optimization compiler. More recently I am working on high performance convolution primitives in our lower-level software API.
 
-Outside of my technical interests I'm also passionate about [tricking](https://www.instagram.com/p/BuBzUssFYV3/?utm_source=ig_web_copy_link), [esports](https://www.youtube.com/watch?v=mFIJFlpMRm4), [weeb stuff](https://myanimelist.net/profile/WilliXL), video game design, and [music](https://www.youtube.com/watch?v=4aWsDC5iHxU).
+### Academic
+
+I received my Bachelor's in [Cognitive Science](https://www.cmu.edu/dietrich/psychology/undergraduate/prospective-students/academics/cognitive-science/index.html) with a minor in [Computer Science](https://www.cs.cmu.edu/) from Carnegie Mellon University. While at CMU, I had the pleasure to do research with [Saugata Ghose](https://ghose.web.illinois.edu/) for the majority of my undergraduate career.
+
+I am currently pursuing a Master's in [Computer Science](https://www.cs.utexas.edu/graduate-program/masters-program) at The University of Texas at Austin part time.
+
+In terms of research, I find that I am broadly interested in high performance computing, domain-specific compilers, reconfigurable architectures, theoretical neuroscience, deep learning, and teaching.
+
+My email is in the side bar. Definitely hit me up if you want to start a conversation related to any of those topics. I'm down to also discuss any interesting projects or ideas!
+
+At some point in the future, I hope to pursue a PhD to study the formal mathematical analysis of novel algorithms and their co-design with accelerator systems.
+
+### Personal
+
+Outside of my professional and academic interests I'm also passionate about [tricking](https://www.instagram.com/p/BuBzUssFYV3/?utm_source=ig_web_copy_link), [esports](https://www.youtube.com/watch?v=mFIJFlpMRm4), [weeb stuff](https://myanimelist.net/profile/WilliXL), video game design, and [music](https://www.youtube.com/watch?v=TEvkbGgeq4k).
 
 You can find blog posts with detailed descriptions of my projects [here](/categories/project/). I also try my best to put my projects up on GitHub and keep them updated, but we all know that is rarely true :')
