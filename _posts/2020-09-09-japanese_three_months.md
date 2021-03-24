@@ -9,12 +9,12 @@ comments: true
 
 Japanese media has been a big part of my life. Ever since I was watching Chinese-dubbed Dragon Ball till now, Japanese media is still the major source of my entertainment media. So it has always been a goal of mine to learn Japanese so that I can ~~watch anime while eating and not miss anything~~ connect more with this media that I am consuming.
 
-### The Plan
+## The Plan
 I am already casually fluent in Chinese (I can read and write at a basic level and hold conversations), so my experience would be a bit different from a typical English speaker attempting to learn Japanese since I can pick up Kanji (漢字) much more intuitively.
 
 But nonetheless there was a ton of stuff I needed to learn and it was daunting to even think about starting. So I broke the process into 3 separate entities and pursued them in parallel: Kanji, Vocabulary, and Immersion.
 
-#### Kanji
+### Kanji
 To actually study Kanji, I used an [Anki](https://apps.ankiweb.net/) flash card deck that contains ~1000 of the ~2000 [Jōyō Kanji (常用漢字)](https://en.wikipedia.org/wiki/J%C5%8Dy%C5%8D_kanji) which are the "common use Kanji." The idea is to get through the ~1000 most common Kanji to build up a base of comprehension when later attempting to read, where you can pick up more Kanji from reading later.
 
 Anki is a program that uses a [Spaced Repetition System](https://en.wikipedia.org/wiki/Spaced_repetition) or SRS to algorithmically spaces out the frequency of when a flash card is shown (and making the interval longer and longer) to help you slowly commit information to long-term memory. I am using Anki for most of my direct studying right now.
@@ -25,7 +25,7 @@ To help memorize the Kanji and improve recall, I've been writing each Kanji down
 
 After about three months of study I am currently ~2/3 of the way through this deck.
 
-#### Vocabulary
+### Vocabulary
 To study vocabulary, I used another Anki deck that contains the [JLPT N5](https://ankiweb.net/shared/info/1679429599) (a Japanese language proficiency exma) vocabulary words. This deck presents words in sentences where each new sentence only contains on new vocab word or grammar concept.
 
 The flash cards have just the Japanese sentence on the front and a translation + audio transcription on the back. My process is first attempting to read the card out loud (making sure to get the pronunciation and [pitch accent](https://en.wikipedia.org/wiki/Japanese_pitch_accent) correct), confirm that I understand it, and then flip it around. I will also write down the entire sentence in my notebook once.
@@ -36,7 +36,7 @@ Since each sentence would also contain variations in grammar, I'm finding that I
 
 After about three months of study I am currently halfway through this vocabulary deck.
 
-#### Immersion
+### Immersion
 Immersion is preached about a lot in the language learning community. They say that one should spend copious amounts of time in their target language. And that makes a lot of sense. After all it's how we all learned our first languages.
 
 Currently I spend about an hour doing all of the flash card stuff every day and then another hour doing "active immersion."
@@ -47,5 +47,5 @@ One thing I read was that [Slice of Life](https://en.wikipedia.org/wiki/Slice_of
 
 Immediately, I started spotting a ton of vocabulary words that I've been studying up till this point and actually I can make out quite a bit of what's going on even in shows I've never seen before.
 
-### MORE
+## MORE
 I'm really happy with the progress that I've made so far and am excited to keep going with my studying. I really really want to get to a point where I can actually understand anime and seeing that I'm already able to pick out little pockets of understanding is really encouraging. I'm looking forward to checking in again in about another three months :0
