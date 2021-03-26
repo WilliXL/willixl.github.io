@@ -12,9 +12,11 @@ If you like PDFs, take a look at my fairly up-to-date [Résumé](../Rez_U_May.pd
 
 Currently I am a Software Engineer at a [stealth startup](https://en.wikipedia.org/wiki/Stealth_startup) (what a weird term) in Palo Alto, California. 
 
-Our team is developing a new custom HPC and ML accelerator processor along with a robust compiler stack.
+Our team is developing a new custom HPC and ML accelerator processor which utilizes a reconfigurable hardware architecture, along with a robust compiler stack that compiles directly from Python.
 
-For a while, I was working on our graph optimization compiler. More recently I am working on high performance convolution primitives in our lower-level software API.
+For a while, I worked on our graph optimization compiler.
+
+Recently I am working on a new high performance convolution operation optimized for our architecture.
 
 ### Academic
 
