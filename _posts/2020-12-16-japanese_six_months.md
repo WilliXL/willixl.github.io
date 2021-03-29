@@ -30,7 +30,7 @@ So far I've collected about 200 sentences from my immersion content. I study the
 ### Immersion
 Because I am now sentence mining and also I want to re-watch the shows I am using for immersion content, I've restructured the way I do immersion a bit.
 
-First of all, I've now switched primarily to Japanese Netflix [^jp-netflix] for the majority of my content because I am able to reliably get Japanese subtitles for the shows, unlike Crunchyroll [which won't support Japanese subtitles](https://www.crunchyroll.com/forumtopic-978055/japanese-subtitles) (which makes sense as that is not their market).
+First of all, I've now switched primarily to Japanese Netflix [^jp-netflix] for the majority of my content because I am able to reliably get Japanese subtitles for the shows, unlike Crunchyroll [which won't support Japanese subtitles](https://www.crunchyroll.com/forumtopic-978055/japanese-subtitles#55482093) (which makes sense as that is not their market).
 
 So the current process is this: watch a show once with Japanese subtitles (and grab the audio), watch it again but this time mine sentences from it, and then watch it one last time with just the audio and see how much I can parse. With the audio that I grab, I can play that audio on loop throughout the day in my little iPod Shuffle and pop my earbuds in whenever I'm not really doing anything. In these COVID working conditions, that usually just means whenever I'm not in a video conference meeting.
 
