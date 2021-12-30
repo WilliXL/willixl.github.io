@@ -9,7 +9,7 @@
         © {{ 'now' | date: "%Y" }}
         <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
         {% if site.data.rights.brief %}
-        <span>{{ site.data.rights.brief }}". "{{ site.data.last_updated.datestring }}</span>
+        <span>{{ site.data.rights.brief }} Last Updated: {{ site.data.last_updated.content }}</span>
         {% endif %}
       </p>
     </div>
