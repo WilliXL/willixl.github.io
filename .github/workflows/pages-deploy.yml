@@ -24,8 +24,6 @@ jobs:
 
       - name: Setup Ruby
         uses: actions/setup-ruby@v1
-        with:
-          ruby-version: '3.0'
 
       - name: Bundle Caching
         uses: actions/cache@v2
