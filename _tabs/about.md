@@ -10,8 +10,6 @@ My name is William Liu (刘胥飞/劉胥飛/류서비). I am a software engineer
 
 Originally I am from Madison, Wisconsin but I am currently based in the SF Bay Area.
 
-If you like PDFs, you can take a look at my experience in my fairly up-to-date [Résumé](../Rez_U_May.pdf) and [CV](../CV.pdf).
-
 ## Professional
 
 **Currently,** I am a Backend Systems Engineer at [CoPilot](https://mycopilot.com/), a startup that's transforming the fitness, personal training, and health industry. As a backend engineer for a small team, I work on pretty much everything imaginable.
