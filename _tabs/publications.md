@@ -1,6 +1,6 @@
 ---
 title: Publications
-icon: fas fa-file
+icon: fas fa-pen
 order: 2
 ---
 
