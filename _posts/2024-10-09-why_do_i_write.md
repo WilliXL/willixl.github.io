@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Write?
+title: "[First Draft] Why Write?"
 tags: [personal]
 comments: true
 pin: true
@@ -8,7 +8,7 @@ pin: true
 
 I've been thinking a lot about my personal motivations to write.
 
-There's obviously the pedagical reason - to impart some sort of knowledge or thought out into the world.
+There's obviously the pedagogical reason - to impart some sort of knowledge or thought out into the world.
 But especially lately (circa 2024) as I've been primarily focused on startups and navigating my way through
 "what am I trying to do with life", I've been feeling the itch to write for a different purpose.
 
@@ -31,7 +31,7 @@ when they choose to look back on themselves and their trajectory there's a lot o
 naturally collected.
 
 I feel like that previous point was a bit of a ramble. All of it is to say that I wish I also had things to look back
-on and "SEE" what kind of person I was. I only have pictures annd some videos of me doing sports. The personality isn't
+on and "SEE" what kind of person I was. I only have pictures and some videos of me doing sports. The personality isn't
 there at all because talking directly to the camera wasn't really a thing when I was growing up.
 
 And I don't think I will suddenly become the type of person to just talk at a camera and share my thoughts. Who knows though,
