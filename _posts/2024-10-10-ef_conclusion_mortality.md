@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lately i've been scared of death
+title: "[First Draft] lately i've been scared of death"
 tags: [personal, startup, health]
 comments: true
 ---
@@ -59,3 +59,57 @@ at least a little while. VCs obviously don't like it if they give you money for 
 it.
 
 ## Life Outside of Work
+
+The other thing is I also don't want to just revolve my life around building a startup or running a company, or just
+otherwise being successful in commercial endeavors.
+
+One thing I am certain about is that I want to experience life, in all kinds of facets. I guess having children is actually
+one of those facets, but I will leave that for later. Growing up in multiple cultures has made me privy to the fact that
+the Western, and also American, way of viewing the world and inhabiting it is only one way to do so. The planet is vast
+humans have found so many creative ways to call it their home and, through that process, concocted varying approaches
+and cultures.
+
+A truism in my mind is that I want to experience things for myself, and then decide for myself if that's the type of thing
+I want to keep experiencing or not. Instead of other people telling me what my opinion should be.
+
+For example, up until moving to SF I had really never lived in a "Tier 1" city in North America before. Chicago is sorta
+there but I had never lived in Chicago for an extended period of time. Of course everyone has heard discourse around these
+cities, the most prominent ones being the hustle, noise, stress, and of course drug and homelessness epidemics. However
+the last thing I wanted to do was to never live in a city and "settle" (so to speak) for what is "known" to be comfortable
+in the suburbs. I desperately wanted to live it and know it for myself by actually properly living in a city such as SF.
+
+And turns out, it's actually pretty fucking nice. Being able to get to most places by foot, bike, or public transit has
+made spontaneity extremely easy. I don't mald at stop-and-go traffic anymore. Though obviously there's the downsides too.
+The important thing to me though is that now I get to make the call based off of my own experience.
+
+## What Do?
+
+So now lies a conflict.
+
+On the one hand there's the hunkering down and starting a startup, and on the other hand there is experiencing the world.
+
+It has all been culminating in my head as a strong sense of survival. In order to do these things, I need to live a long
+and healthy life. I'm not sure which of these 2 things I want to tackle first (it's probably the startup), but in either
+ordering, length of time is extremely important.
+
+Further reinforcing this is the fact that I've been doing a lot of customer development with health-conscious people.
+Some of whom have dedicated huge portions of their lives to staying healthy and living long. So a lot of our conversations
+will wander in fear of death territory. Very topical, but doesn't help my own mental state lol.
+
+Beyond now KNOWING that I want to desperately stay alive to play my life out, my exact actions and what I DO on a day-to-day
+basis has become less clear than ever.
+
+Both starting a startup and experiencing the world are things that are up to my own prerogative. There isn't a manager
+or boss who's gonna assign a ticket for this (sigh).
+
+And this murkiness have been percolating into my actions in the form of doubt. Everything that's not working on the startup
+is wasting my time. But also should I really be putting off "life" for doing a startup? Where the risk and uncertainty is
+basically maxed out relative to almost anything else I could be doing?
+
+I think(?) my decision now is to all-in, full commit on startups.
+
+I don't, and no one else will either, know if this decision will pan out the way that I think it will.
+
+But I'm scared of not finding out.
+
+And I'm scared of slipping away before I do.
