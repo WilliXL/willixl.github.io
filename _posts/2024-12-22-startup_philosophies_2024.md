@@ -152,7 +152,7 @@ Not that I'm a second time founder but I do feel this very acutely now. I'll poi
 There was another startup called Ness that did something very similar to what I'm trying to do now. They called it quits in 2023, but
 that's besides the point for now. Their cofounder/CEO had previously founded a health media company, essentially a blog
 and newsletter with >2M readers. Ness started by emailing the >2M people on their subscribers list to kickstart the user
-base for this new company. Even if someone could somehow build a much better product, how do you compete against the ability
+base for this new company. Even if someone could somehow magically build a much better product, how do you compete against the ability
 to immediately interview, test with, and monetize from 1,000 users from day one. That's so powerful. I wish I had that lol.
 
 Most people would agree that US health insurance is a really shit product. Most have a negative NPS Score. For reference
@@ -163,8 +163,8 @@ still make egregious amounts of money.
 
 Final example. AWS may not be an order of magnitude better than GCP, but they do have an order of magnitude more users.
 They have a very strong on-ramp from personal developers, startups, and small companies, capturing them very early on.
-And now the community of people with tribal knowledge about is massive. So if people are choosing a cloud provider, and
-they just want things to work with help from online postings, and they want those juicy free-tier credits, then you can't
+And now the community of people with tribal knowledge about AWS is massive. So if people are choosing a cloud provider, and
+they just want things to work with help from online forums, and they want those juicy free-tier credits, then you can't
 really go wrong with choosing AWS. The actual functionality of the AWS product is not even really all that important in
 most cases.
 
