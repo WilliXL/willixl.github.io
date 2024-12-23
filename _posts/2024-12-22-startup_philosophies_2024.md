@@ -145,8 +145,7 @@ between succeeding and failing.
 
 ## Distribution Distribution Distribution
 
-The quote has been beaten to death but I'll repeat it anyways: "First time founders worry about product. Second time
-founders worry about distribution" - Justin Kan.
+The quote has been beaten to death but I'll repeat it anyways: "First time founders are obsessed with product. Second time founders are obsessed with distribution." - Justin Kan.
 
 Not that I'm a second time founder but I do feel this very acutely now. I'll point out some very salient examples.
 
