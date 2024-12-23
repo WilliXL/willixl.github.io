@@ -207,7 +207,7 @@ generally means more good. So scaling up fast and quickly capturing large parts 
 that competitors can't really play.
 
 I'd be very careful about _why_ a startup should take on VC funding. VCs know what their tool is really good at, so they
-expect the outcome. If you take on VC funding you need to be prepared to deliver scale, defensibility, and a large part
+expect that outcome. If you take on VC funding you need to be prepared to deliver scale, defensibility, and a large part
 of the market captured without much room for your competitors to play.
 
 A lot of the 2010's startup success stories happened to be in winner-take-all markets, at least at the time based on whatever
