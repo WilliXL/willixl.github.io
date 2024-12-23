@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[First Draft] Startup philosophies around mindset I've started to develop this year"
+title: "[First Draft] Philosophies on startups I've developed this year"
 tags: [personal, startup]
 comments: true
 ---
