@@ -28,7 +28,7 @@ the full picture.
 #### Quick Note
 
 These philosophies are only applicable if you intend to build a startup business. For the definition of a startup, I'll
-just point you to Paul Graham's definition.
+just point you to Paul Graham's [definition](https://paulgraham.com/growth.html).
 
 I don't think there's a distinction in mindset between Bootstrapping vs. VC. But of course there is a distinction between
 building a startup meant to scale vs. a traditional business or side hustle.
