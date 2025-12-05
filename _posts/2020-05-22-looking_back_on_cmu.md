@@ -2,7 +2,7 @@
 layout: post
 title: Looking Back on CMU
 subtitle: 7.8/10 too much water
-tags: [personal, cmu, education, recap]
+tags: [personal, cmu]
 comments: true
 ---
 

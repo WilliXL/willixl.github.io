@@ -2,7 +2,7 @@
 layout: post
 title: My Favorite Course Projects
 categories: [Project]
-tags: [compilers, llvm, dataflow analysis, machine learning, convolutional neural networks, deep learning, parallelism, systems software, concurrency, cmu]
+tags: [compilers, machine learning, parallel algorithms, cmu]
 comments: true
 ---
 
@@ -11,6 +11,7 @@ I personally quite enjoy learning maths and theory (still hate taking tests thou
 As I am turning in my final project of my undergraduate career I thought I'd share some of my favorite course projects I did at CMU.
 
 ## Reducing Cache Pollution at Compile Time
+
 Final report [here](../../assets/posts/course_pubs/15-745_Report.pdf).
 
 This is the course project that I just turned in (and my final assignment of undergrad !!) for the course 15-745 Optimizing Compilers for Modern Architectures. My partner and I both had backgrounds in computer architecture so we knew we wanted to do a project related to that.
@@ -20,6 +21,7 @@ The core idea here is to use [non-temporal memory instructions](https://docs.ora
 The problem with using non-temporal memory instructions naively is that if a piece of data is reused very soon then the instruction would essentially eliminate the entire reason for caching. So our compiler passes needed to figure out when it was suitable and beneficial to use non-temporal memory instructions and modify the assembly accordingly.
 
 ## CNN Interpretability
+
 Final report [here](../../assets/posts/course_pubs/10-707_Report.pdf).
 
 For the course 10-707 Topics in Deep Learning, my partner and I went for a more theoretical project idea. The core idea of this project is to expand upon some prior research on CNN interpretability results that used L1-norm part templates to guide the convergence of the convolution kernels towards certain labeled features in an animal recognition dataset. By doing so, a model writer can be sure of what their CNN is actually doing rather than leaving the convergence gradients completely uninterpretable.
@@ -27,6 +29,7 @@ For the course 10-707 Topics in Deep Learning, my partner and I went for a more 
 The training data was a bunch of different animals with their macro body parts labeled. The goal was to guide the convergence of the network while forcing each kernel to select only for pixels of a certain body part. We discovered benefits and drawbacks of using different geometric norms in the part templates compared to the publication this project was based upon.
 
 ## Parallel Galaxy Simulation
+
 Final report [here](../../assets/posts/course_pubs/15-418_Report.pdf).
 
 Galaxy simulation is a very computationally intense thing to do if you are to be 100% precise. It is also difficult to parallelize that process. For the course project in 15-418 Parallel Computer Architecture and Programming we implemented the famous Barnes-Hut algorithm using OpenMP. The uses a quad-tree (or an octree for 3D simulations) and a Hilbert curve to subdivide the simulation space, fill it with stellar bodies, and approximate nearby gravitational forces.

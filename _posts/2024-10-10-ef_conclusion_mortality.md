@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[First Draft] lately i've been scared of death"
+title: "lately i've been scared of death"
 tags: [personal, startup, health]
 comments: true
 ---
