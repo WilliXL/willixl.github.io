@@ -37,4 +37,4 @@ Outside of my professional and academic interests I'm also passionate about [tri
 
 I also love languages. Recently I've been [learning Japanese](/posts/japanese_six_months) in my free time ~~so that I can watch anime without subtitles~~.
 
-You can find blog posts with detailed descriptions of my projects. I also try my best to put my projects up on GitHub and keep them updated, but we all know that is rarely true :')
+You can find blog posts with detailed descriptions of my projects [here](/categories/projects/). I also try my best to put my projects up on GitHub and keep them updated, but we all know that is rarely true :')
