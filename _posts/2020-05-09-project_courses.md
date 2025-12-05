@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Favorite Course Projects
-categories: [Project]
+categories: [Projects]
 tags: [compilers, machine learning, parallel algorithms, cmu]
 comments: true
 ---

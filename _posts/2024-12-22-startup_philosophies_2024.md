@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Philosophies on startups I've developed this year"
+categories: [Startups]
 tags: [personal, startup]
 comments: true
 ---

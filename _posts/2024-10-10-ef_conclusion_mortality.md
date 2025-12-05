@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "lately i've been scared of death"
+categories: [Startups]
 tags: [personal, startup, health]
 comments: true
 ---
