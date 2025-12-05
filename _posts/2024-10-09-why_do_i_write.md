@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "[First Draft] Why Write?"
+title: "Why Write?"
 tags: [personal]
 comments: true
-pin: true
 ---
 
 I've been thinking a lot about my personal motivations to write.
